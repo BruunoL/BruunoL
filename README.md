@@ -1,4 +1,4 @@
-### ✨ Bruno Luiz :man:technologist 💻
+### ✨ Bruno Luiz 💻
 
 ## Helloooo! 👋 Welcome to my profile 
 
