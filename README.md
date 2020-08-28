@@ -11,4 +11,5 @@ I always try to study the most important of current technology, evolving my know
 ## About Me
 
 :trophy: Instituto Técnico Barueri - Manutenção e Suporte em Informática :heavy_check_mark:
+
 :trophy: Universidade Federal do ABC - Ciência da Computação :books:
