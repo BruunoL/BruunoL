@@ -1,10 +1,3 @@
-### Hi there 👋
-
-<!--
-**BruunoL/BruunoL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +7,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### ✨ Bruno Luiz :man:technologist 💻
+
+## Helloooo! 👋 Welcome to my profile 
+
+I am a Full Stack Developer, i have been programming since I was 13 years old. It is a great pleasure to receive you on my git hub page.
+I make available some of my projects in repository for you to download and use as examples. Constantly add new projects, both backend and frotend.
+I always try to study the most important of current technology, evolving my knowledge every day more. And putting that into practice in my projects and in the job market.
+
+⚡ Thank you so much for taking the time to read a little about me ⚡
+
+## About Me
+
+:trophy Instituto Técnico Barueri - Manutenção e Suporte em Informática :heavy_check_mark:
+:trophy Universidade Federal do ABC - Ciência da Computação
+
