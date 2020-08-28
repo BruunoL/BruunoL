@@ -1,4 +1,4 @@
-### ✨ Bruno Luiz 💻
+#### Bruno Luiz :man💻
 
 ## Helloooo! 👋 Welcome to my profile 
 
